@@ -1,8 +1,4 @@
 
 ['Newest Questions - Stack Overflow']
 ['WhatsApp Web']
-['Google Colab']
-['Google Colab']
-['Google Colab']
-['Google Colab']
 ['Meet Google Drive – One place for all your files']
